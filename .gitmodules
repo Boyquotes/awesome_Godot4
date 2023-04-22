@@ -28,3 +28,6 @@
 [submodule "Godot-Text-Database"]
 	path = Godot-Text-Database
 	url = https://github.com/KoBeWi/Godot-Text-Database
+[submodule "godot-awesome-splash"]
+	path = godot-awesome-splash
+	url = https://github.com/duongvituan/godot-awesome-splash

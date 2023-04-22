@@ -8,13 +8,14 @@ https://github.com/mrlev/FloatingIslandsDemo  version 4.0 alpha3
 https://github.com/crystal-bit/platform-3d v4.0.2  
 https://github.com/Jairus04/Godot_4.0_Horror_Character_Controller v4.0.2  
 https://github.com/cesko/godot_fps_test v4.0.2
+
 FX:  
 
 Charts:  
 https://github.com/fenix-hub/godot-engine.easy-charts  
 
 Addons:  
-
+https://github.com/ramokz/phantom-camera  
 
 DB:  
 https://github.com/KoBeWi/Godot-Text-Database  
