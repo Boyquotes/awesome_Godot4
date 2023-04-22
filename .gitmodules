@@ -16,3 +16,6 @@
 [submodule "godot-FirstPersonStarter"]
 	path = godot-FirstPersonStarter
 	url = https://github.com/Whimfoome/godot-FirstPersonStarter
+[submodule "godot-4-3d-third-person-controller"]
+	path = godot-4-3d-third-person-controller
+	url = https://github.com/gdquest-demos/godot-4-3d-third-person-controller
