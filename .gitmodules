@@ -13,3 +13,6 @@
 [submodule "craftgd"]
 	path = craftgd
 	url = https://github.com/Lightnet/craftgd
+[submodule "godot-FirstPersonStarter"]
+	path = godot-FirstPersonStarter
+	url = https://github.com/Whimfoome/godot-FirstPersonStarter
