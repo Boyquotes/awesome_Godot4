@@ -7,3 +7,6 @@
 [submodule "Godot_4.0_Horror_Character_Controller"]
 	path = Godot_4.0_Horror_Character_Controller
 	url = https://github.com/Jairus04/Godot_4.0_Horror_Character_Controller
+[submodule "strafer"]
+	path = strafer
+	url = https://github.com/ic3bug/strafer
