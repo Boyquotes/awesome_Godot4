@@ -1,0 +1,3 @@
+[submodule "FloatingIslandsDemo"]
+	path = FloatingIslandsDemo
+	url = https://github.com/mrlev/FloatingIslandsDemo
