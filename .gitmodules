@@ -25,3 +25,6 @@
 [submodule "godot_fps_test"]
 	path = godot_fps_test
 	url = https://github.com/cesko/godot_fps_test
+[submodule "Godot-Text-Database"]
+	path = Godot-Text-Database
+	url = https://github.com/KoBeWi/Godot-Text-Database
