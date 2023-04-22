@@ -10,3 +10,6 @@
 [submodule "strafer"]
 	path = strafer
 	url = https://github.com/ic3bug/strafer
+[submodule "craftgd"]
+	path = craftgd
+	url = https://github.com/Lightnet/craftgd
