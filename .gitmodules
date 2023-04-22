@@ -22,3 +22,6 @@
 [submodule "phantom-camera"]
 	path = phantom-camera
 	url = https://github.com/ramokz/phantom-camera
+[submodule "godot_fps_test"]
+	path = godot_fps_test
+	url = https://github.com/cesko/godot_fps_test
