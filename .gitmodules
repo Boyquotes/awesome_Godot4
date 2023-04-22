@@ -1,3 +1,6 @@
 [submodule "FloatingIslandsDemo"]
 	path = FloatingIslandsDemo
 	url = https://github.com/mrlev/FloatingIslandsDemo
+[submodule "platform-3d"]
+	path = platform-3d
+	url = https://github.com/crystal-bit/platform-3d
