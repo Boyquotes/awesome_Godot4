@@ -34,3 +34,6 @@
 [submodule "protongraph"]
 	path = protongraph
 	url = https://github.com/protongraph/protongraph
+[submodule "Libre-TrainSim"]
+	path = Libre-TrainSim
+	url = https://github.com/Libre-TrainSim/Libre-TrainSim
