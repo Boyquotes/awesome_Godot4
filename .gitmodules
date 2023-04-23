@@ -49,3 +49,6 @@
 [submodule "backrooms"]
 	path = backrooms
 	url = https://github.com/zodywoolsey/backrooms
+[submodule "EcoTribu"]
+	path = EcoTribu
+	url = https://github.com/nikixos/EcoTribu
