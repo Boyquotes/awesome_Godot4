@@ -40,3 +40,6 @@
 [submodule "Godot-4-HTTPManager"]
 	path = Godot-4-HTTPManager
 	url = https://github.com/D2klaas/Godot-4-HTTPManager
+[submodule "godot-3D-shooter-project"]
+	path = godot-3D-shooter-project
+	url = https://github.com/kdreese/godot-3D-shooter-project
