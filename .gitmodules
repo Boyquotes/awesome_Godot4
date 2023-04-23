@@ -31,3 +31,6 @@
 [submodule "godot-awesome-splash"]
 	path = godot-awesome-splash
 	url = https://github.com/duongvituan/godot-awesome-splash
+[submodule "protongraph"]
+	path = protongraph
+	url = https://github.com/protongraph/protongraph
