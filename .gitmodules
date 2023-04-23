@@ -43,3 +43,9 @@
 [submodule "godot-3D-shooter-project"]
 	path = godot-3D-shooter-project
 	url = https://github.com/kdreese/godot-3D-shooter-project
+[submodule "MX_Zeta"]
+	path = MX_Zeta
+	url = https://github.com/Umanarav/MX_Zeta
+[submodule "backrooms"]
+	path = backrooms
+	url = https://github.com/zodywoolsey/backrooms
