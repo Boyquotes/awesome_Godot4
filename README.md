@@ -1,5 +1,6 @@
-Awesome projects/addons/tutorials for GODOT engine version 4.
-
+Awesome projects/addons/tutorials for GODOT engine version 4.  
+<img alt="Godot4" src="https://img.shields.io/badge/-Godot 4.x-478CBF?style=for-the-badge&logo=godotengine&logoWidth=20&logoColor=white" />  
+=========================================
 2D:  
 
 3D:  
