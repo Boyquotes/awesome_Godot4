@@ -52,3 +52,12 @@
 [submodule "EcoTribu"]
 	path = EcoTribu
 	url = https://github.com/nikixos/EcoTribu
+[submodule "Godot-4-Overgrown-Subway-Demo"]
+	path = Godot-4-Overgrown-Subway-Demo
+	url = https://github.com/mikatomik/Godot-4-Overgrown-Subway-Demo
+[submodule "Abandoned-Spaceship-Godot-Demo"]
+	path = Abandoned-Spaceship-Godot-Demo
+	url = https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo
+[submodule "godot_updated_fps_controller"]
+	path = godot_updated_fps_controller
+	url = https://github.com/GarbajYT/godot_updated_fps_controller
