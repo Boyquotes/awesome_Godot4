@@ -12,7 +12,7 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 
 - https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo  
 <p align="center">
-<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot3/main/images/Abandoned-Spaceship-Godot-Demo.png">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Abandoned-Spaceship-Godot-Demo.png">
 </p>  
 
 FX:  
