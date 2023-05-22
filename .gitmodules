@@ -61,3 +61,9 @@
 [submodule "godot_updated_fps_controller"]
 	path = godot_updated_fps_controller
 	url = https://github.com/GarbajYT/godot_updated_fps_controller
+[submodule "Godot_Foliage_SSS_Shader"]
+	path = Godot_Foliage_SSS_Shader
+	url = https://github.com/CChapman03/Godot_Foliage_SSS_Shader
+[submodule "godot4-demo-desert-light"]
+	path = godot4-demo-desert-light
+	url = https://github.com/RPicster/godot4-demo-desert-light.git
