@@ -22,10 +22,16 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/godot4-demo-desert-light.png">
 </p>  
+
+* Showcase:  
 - Lumberyard Bistro https://github.com/godotengine/godot/issues/74965    
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Lumberyard_Bistro.jpeg">
 </p>  
+- Unreal Sun Temple Reference https://github.com/godotengine/godot/issues/75440. 
+<p align="center">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Unreal_Sun_Temple_Reference.jpeg">
+</p>
 
 FX:  
 
