@@ -42,6 +42,11 @@ Addons:
 https://github.com/ramokz/phantom-camera  
 https://github.com/duongvituan/godot-awesome-splash  
 
+https://github.com/expressobits/inventory-system-demos 
+<p align="center">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/inventory-system-demos.png">
+</p>    
+
 DB:  
 https://github.com/KoBeWi/Godot-Text-Database  
 
