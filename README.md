@@ -23,6 +23,11 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/godot4-demo-desert-light.png">
 </p>  
 
+- Lumberyard Bistro https://github.com/godotengine/godot/issues/74965    
+<p align="center">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Lumberyard_Bistro.png">
+</p>  
+
 FX:  
 
 Charts:  
