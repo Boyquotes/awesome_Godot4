@@ -41,6 +41,7 @@ https://github.com/fenix-hub/godot-engine.easy-charts
 Addons:  
 https://github.com/ramokz/phantom-camera  
 https://github.com/duongvituan/godot-awesome-splash  
+https://github.com/expressobits/character-controller
 
 https://github.com/expressobits/inventory-system-demos 
 <p align="center">
