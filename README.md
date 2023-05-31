@@ -9,6 +9,10 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 - https://github.com/Jairus04/Godot_4.0_Horror_Character_Controller v4.0.2  
 - https://github.com/cesko/godot_fps_test v4.0.2  
 - solar-gardener  
+- Eco Tribu https://github.com/nikixos/EcoTribu  
+<p align="center">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/EcoTribu.png">
+</p>  
 
 - https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo  
 <p align="center">
