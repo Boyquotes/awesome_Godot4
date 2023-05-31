@@ -67,3 +67,6 @@
 [submodule "godot4-demo-desert-light"]
 	path = godot4-demo-desert-light
 	url = https://github.com/RPicster/godot4-demo-desert-light.git
+[submodule "character-controller"]
+	path = character-controller
+	url = https://github.com/expressobits/character-controller
