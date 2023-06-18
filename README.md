@@ -15,6 +15,7 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 - https://github.com/cesko/godot_fps_test v4.0.2  
 - solar-gardener  
 - Eco Tribu https://github.com/nikixos/EcoTribu  
+- ![My Image](/images/EcoTribu.png)
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/EcoTribu.png">
 </p>  
