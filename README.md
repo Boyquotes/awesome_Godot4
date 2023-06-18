@@ -5,7 +5,8 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 
 3D:  
 - Procedural generation of island : https://github.com/mrlev/FloatingIslandsDemo  version 4.0 alpha3  
-- https://github.com/crystal-bit/platform-3d v4.0.2 
+- https://github.com/crystal-bit/platform-3d v4.0.2
+- ![My Image](images/platform-3d.png)
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/platform-3d.png">
 </p>  
