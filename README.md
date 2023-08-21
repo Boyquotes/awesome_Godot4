@@ -20,6 +20,14 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/EcoTribu.png">
 </p>  
 
+- https://github.com/BenjaTK/Criss-Cross
+<p align="center">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Criss-Cross.gif">
+</p>
+<p align="center">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Criss-Cross2.gif">
+</p>
+
 - https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo  
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Abandoned-Spaceship-Godot-Demo.png">
