@@ -73,3 +73,6 @@
 [submodule "Criss-Cross"]
 	path = Criss-Cross
 	url = https://github.com/BenjaTK/Criss-Cross
+[submodule "scatter"]
+	path = scatter
+	url = https://github.com/HungryProton/scatter

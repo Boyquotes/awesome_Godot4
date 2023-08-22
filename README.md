@@ -57,10 +57,14 @@ Charts:
 https://github.com/fenix-hub/godot-engine.easy-charts  
 
 Addons:  
-https://github.com/ramokz/phantom-camera  
-https://github.com/duongvituan/godot-awesome-splash  
-https://github.com/expressobits/character-controller  
-https://github.com/coppolaemilio/dialogic
+- https://github.com/ramokz/phantom-camera  
+- https://github.com/duongvituan/godot-awesome-splash  
+- https://github.com/expressobits/character-controller  
+- https://github.com/coppolaemilio/dialogic
+- https://github.com/HungryProton/scatter
+<p align="center">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/scatter.png">
+</p>
 
 https://github.com/expressobits/inventory-system-demos 
 <p align="center">
