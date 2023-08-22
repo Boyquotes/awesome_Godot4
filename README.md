@@ -65,6 +65,10 @@ Addons:
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/scatter.png">
 </p>
+- https://github.com/dreadpon/godot_spatial_gardener 3D
+<p align="center">
+<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/godot_spatial_gardener.gif">
+</p>
 
 https://github.com/expressobits/inventory-system-demos 
 <p align="center">

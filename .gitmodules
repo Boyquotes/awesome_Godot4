@@ -76,3 +76,9 @@
 [submodule "scatter"]
 	path = scatter
 	url = https://github.com/HungryProton/scatter
+[submodule "3D"]
+	path = 3D
+	url = https://github.com/dreadpon/godot_spatial_gardener
+[submodule "godot_spatial_gardener"]
+	path = godot_spatial_gardener
+	url = https://github.com/dreadpon/godot_spatial_gardener
