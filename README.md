@@ -51,10 +51,11 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Unreal_Sun_Temple_Reference.jpeg">
 </p>
 
-FX:  
+SHADERS / FX:  
+
 
 Charts:  
-https://github.com/fenix-hub/godot-engine.easy-charts  
+- https://github.com/fenix-hub/godot-engine.easy-charts  
 
 Addons:  
 - https://github.com/ramokz/phantom-camera  
@@ -76,5 +77,5 @@ https://github.com/expressobits/inventory-system-demos
 </p>    
 
 DB:  
-https://github.com/KoBeWi/Godot-Text-Database  
+- https://github.com/KoBeWi/Godot-Text-Database  
 
