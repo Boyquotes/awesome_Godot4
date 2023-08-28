@@ -85,3 +85,6 @@
 [submodule "cyclopsLevelBuilder"]
 	path = cyclopsLevelBuilder
 	url = https://github.com/blackears/cyclopsLevelBuilder
+[submodule "godot-polygon-generator"]
+	path = godot-polygon-generator
+	url = https://github.com/rametta/godot-polygon-generator
