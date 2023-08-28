@@ -82,3 +82,6 @@
 [submodule "godot_spatial_gardener"]
 	path = godot_spatial_gardener
 	url = https://github.com/dreadpon/godot_spatial_gardener
+[submodule "cyclopsLevelBuilder"]
+	path = cyclopsLevelBuilder
+	url = https://github.com/blackears/cyclopsLevelBuilder
