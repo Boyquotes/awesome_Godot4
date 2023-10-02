@@ -88,3 +88,6 @@
 [submodule "godot-polygon-generator"]
 	path = godot-polygon-generator
 	url = https://github.com/rametta/godot-polygon-generator
+[submodule "Starter-Kit-FPS"]
+	path = Starter-Kit-FPS
+	url = https://github.com/KenneyNL/Starter-Kit-FPS.git
