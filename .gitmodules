@@ -91,3 +91,9 @@
 [submodule "Starter-Kit-FPS"]
 	path = Starter-Kit-FPS
 	url = https://github.com/KenneyNL/Starter-Kit-FPS.git
+[submodule "godot_little_camera_preview"]
+	path = godot_little_camera_preview
+	url = https://github.com/anthonyec/godot_little_camera_preview
+[submodule "Cogito"]
+	path = Cogito
+	url = https://github.com/Phazorknight/Cogito.git
