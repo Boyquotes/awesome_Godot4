@@ -28,6 +28,11 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Criss-Cross2.gif">
 </p>
 
+- https://github.com/KenneyNL/Starter-Kit-FPS.git
+<p align="center">
+<img width=600 src="https://github.com/KenneyNL/Starter-Kit-FPS/blob/main/screenshots/screenshot.png">
+</p>
+
 - https://github.com/perfoon/Abandoned-Spaceship-Godot-Demo  
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Abandoned-Spaceship-Godot-Demo.png">
