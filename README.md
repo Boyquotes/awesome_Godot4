@@ -89,6 +89,10 @@ https://github.com/expressobits/inventory-system-demos
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/inventory-system-demos.png">
 </p>    
 
+- SimpleFPSController 
+  - https://www.youtube.com/playlist?list=PLbuK0gG93AsHID1DDD1nt4YHcdOmJvWW1
+  - https://github.com/majikayogames/SimpleFPSController
+
 DB:  
 - https://github.com/KoBeWi/Godot-Text-Database  
 
