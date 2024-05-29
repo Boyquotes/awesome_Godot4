@@ -2,6 +2,8 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 <img alt="Godot4" src="https://img.shields.io/badge/-Godot 4.x-478CBF?style=for-the-badge&logo=godotengine&logoWidth=20&logoColor=white" />  
 =========================================
 2D:  
+- https://github.com/antimundo/poder-solar Test : https://antimundo.itch.io/poder-solar
+<img width="942" alt="poder-solar" src="https://github.com/Boyquotes/awesome_Godot4/assets/417514/c6e292c6-2ebd-4591-857d-0d0ed52945be">
 
 3D:  
 - Procedural generation of island : https://github.com/mrlev/FloatingIslandsDemo  version 4.0 alpha3  
