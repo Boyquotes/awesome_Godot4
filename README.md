@@ -13,6 +13,9 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/platform-3d.png">
 </p>  
 
+- https://github.com/Nodragem/twin-stick-shooter-starter-kit
+  https://github.com/Nodragem/twin-stick-shooter-starter-kit/assets/10520249/cb1b10fc-a31e-4a98-8d42-ad8bfacd0b1f
+
 - https://github.com/Jairus04/Godot_4.0_Horror_Character_Controller v4.0.2  
 - https://github.com/cesko/godot_fps_test v4.0.2  
 - solar-gardener  
