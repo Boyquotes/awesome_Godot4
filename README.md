@@ -89,7 +89,7 @@ Addons:
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/godot-polygon-generator.gif">
 </p>
 
-https://github.com/expressobits/inventory-system-demos 
+- https://github.com/expressobits/inventory-system
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/inventory-system-demos.png">
 </p>    
