@@ -5,7 +5,12 @@ Awesome projects/addons/tutorials for GODOT engine version 4.
 - https://github.com/antimundo/poder-solar Test : https://antimundo.itch.io/poder-solar
 <img width="942" alt="poder-solar" src="https://github.com/Boyquotes/awesome_Godot4/assets/417514/c6e292c6-2ebd-4591-857d-0d0ed52945be">
 
+- https://github.com/mbakgor/space-ship-ride.git
+  ![space-ship-ride](https://github.com/user-attachments/assets/4f3de981-e8a0-40c5-a86b-a76fa34747bd)
+
+
 3D:  
+
 - Procedural generation of island : https://github.com/mrlev/FloatingIslandsDemo  version 4.0 alpha3  
 - https://github.com/crystal-bit/platform-3d v4.0.2
 - ![My Image](images/platform-3d.png)
